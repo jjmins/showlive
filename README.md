@@ -1,0 +1,10 @@
+- 보이는 화면을 다 구성했는가 [o]
+  - CleanArchitecture + MVVM으로 작업하였습니다.
+- 마블 API를 사용했는가 [o]
+  - MarvelRepositoryImpl 내부에서 관리하였습니다.
+- UI 가 무분별하게 다시 그리는 부분이 없는가
+   - favorite을 추가할때 Card는 깜박임 없이 색만 변해야 된다. [o]
+   - 색이 변한 Card는 scroll 해도 유지 [o]
+- favorite character 관리 point를 설명해 주세요.
+   - Rx를 사용하여 비동기 처리를 하였습니다.
+- API 호출 조건을 충족했는가 [0]
