@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowliveAssignment</string>
+    <string name="input_character_hint">마블 영웅 이름을 입력하세요.</string>
+</resources>
